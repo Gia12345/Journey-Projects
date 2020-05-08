@@ -18,11 +18,11 @@ X16	Reason for loan provided by borrower
 X17	"Loan category, as provided by borrower"
 X18	"Loan title, as provided by borrower"
 X19	State of borrower
-X20	"A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested loan, divided by the borrower’s self-reported monthly income."
+X20	"A ratio calculated using the borrowerâ€™s total monthly debt payments on the total debt obligations, excluding mortgage and the requested loan, divided by the borrowerâ€™s self-reported monthly income."
 X21	The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
 X22	Date the borrower's earliest reported credit line was opened
 X23	Number of months since the borrower's last delinquency.
 X24	Number of months since the last public record.
 X25	Number of derogatory public records
 X26	The total number of credit lines currently in the borrower's credit file
-X27	"The initial listing status of the loan. Possible values are – W, F"
+X27	"The initial listing status of the loan. Possible values are â€“ W, F"
