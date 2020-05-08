@@ -6,5 +6,5 @@ PART 2 - Analyzed data with graphs.
 PART 3 - Created models to predict interest rate.
 
 DATA FOLDER
-Given csv file with 400,000 records and 27 columns, including the interest rate (target).
+Originally given csv file with 400,000 records and 27 columns, including the interest rate (target).
 Data is a sample due to limitations of github.
