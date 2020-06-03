@@ -1,6 +1,6 @@
 Using Python and data science tools (pandas, numpy, scikit-learn), analyzed data to predict loan interest rate.  
 
-ANALYSIS FILES
+ANALYSIS FOLDER
 PART 1 - Cleaned data, manipulated nulls, etc.
 PART 2 - Analyzed data with graphs.
 PART 3 - Created models to predict interest rate.
