@@ -1,3 +1,3 @@
 # ETL Big data projects from fellowship
-# SQL, Sqoop, Hive, Oozie, Java, and Visualization in Hive
+## Featuring SQL, Spark, Hive (including Visualizations), Java, Sqoop, Oozie skills.
 
