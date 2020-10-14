@@ -1,4 +1,4 @@
-## Using Python and data science tools, including libraries sklearn / scikit-learn, numpy, pandas.
+## Analyzed anonymous data using Python and data science tools, including libraries sklearn / scikit-learn, numpy, pandas.
 
 #### REPORT  
 Summary of Anonymous Data Analysis.pdf 
