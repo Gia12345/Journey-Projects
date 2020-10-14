@@ -8,7 +8,11 @@ import pandas as pd
 import numpy as np
 weekdays=['mon','tues','wed','thur','fri']
 months=['jan','feb','mar','apr','may','jun','jul','aug','sept','oct','nov','dec']
-
+"""
+import calendar
+airline['Month'] = airline['Month'].apply(lambda x: calendar.month_abbr[x])
+airline.head()
+"""
 def fix_date_string(date_string, date_list):
     if not isinstance(date_string, str):
         return date_string
